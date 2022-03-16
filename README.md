@@ -12,3 +12,7 @@ This article describes the production of this database, and based on that, a com
 Table 6 gives a description of all the extracted features.
 
 <img src="https://github.com/Dehghan99/crop-weed-segmentation/blob/main/figures/features%20description.png" alt="drawing" width="800"/>
+
+## Feature Selection
+
+In order to further improve the results, I used different Evolutionary algorithms like GA, PSO, and SA to select the most important features. Each FSS folder contains the code for feature selection. By feature selection, average accuracy increases from 79 to 83.7, as well as other metrics such as F1-score, Precision and Recall improve.
