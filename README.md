@@ -11,3 +11,4 @@ This article describes the production of this database, and based on that, a com
 
 Table 6 gives a description of all the extracted features.
 
+<img src="https://github.com/Dehghan99/crop-weed-segmentation/blob/main/figures/features%20description.png" alt="drawing" width="800"/>
