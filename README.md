@@ -15,4 +15,4 @@ Table 6 gives a description of all the extracted features.
 
 ## Feature Selection
 
-In order to further improve the results, I used different Evolutionary algorithms like GA, PSO, and SA to select the most important features. Each FSS folder contains the code for feature selection. By feature selection, average accuracy increases from 79 to 83.7, as well as other metrics such as F1-score, Precision and Recall improve.
+In order to further improve the results, I used different Evolutionary algorithms like GA, PSO, and SA to select the most important features. Each FSS folder contains the code for feature selection. By feature selection, average accuracy increases from 79 to 83.7, while other metrics such as F1-score, Precision, and Recall improve as well.
