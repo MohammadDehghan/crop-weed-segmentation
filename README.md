@@ -1,7 +1,7 @@
 # Plant segmentation system for crop/weed discrimination in image processing
 
 ## Abstract
-Today, one of the most significant issues in agriculture is to increase the use of agricultural land. Therefore, the removal of weeds from agricultural land, which is a difficult and costly task, plays an important role in increasing the use of agricultural land. Automatic weed and crop discrimination is a topic we will address. To do this we will train a neural network that will receive a patch of an image as input and its output will be semantic segmentation of the input image. The database we use is a collection of photos taken from a carrot farm taken by a robot. Lastly, we evaluate the performance of the trained neural network, which has an average accuracy of approximately 79%.
+In recent years, one of the most significant issues in agriculture is to increase the use of agricultural land. Therefore, the removal of weeds from agricultural land, which is a difficult and costly task, plays an important role in increasing the use of agricultural land. Automatic weed and crop discrimination is a topic we will address. To do this we will train a neural network that will receive a patch of an image as input and its output will be semantic segmentation of the input image. The database we use is a collection of photos taken from a carrot farm taken by a robot. Lastly, we evaluate the performance of the trained neural network, which has an average accuracy of approximately 79%.
 
 ## Dataset
 
